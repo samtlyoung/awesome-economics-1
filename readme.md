@@ -64,6 +64,7 @@ Search
 * [Dataset Search Engine](https://cse.google.com/cse/publicurl?cx=002720237717066476899:v2wv26idk7m) - Google-based search over 200 data sources, including those mentioned here. You can use Google [search operators](http://www.googleguide.com/advanced_operators_reference.html) here.
 * [StackExchange Open Data](http://opendata.stackexchange.com/) - If you haven't found the data you were looking for, you can ask it here.
 * [Reddit /r/datasets](https://www.reddit.com/r/datasets) - One more place to request datasets.
+* [The Trade Economy Index](https://tradesindex.org) - Open regional dataset covering 9.08M US commercial buildings, $226.9B in annual trade maintenance expenditure, 241,694 municipal permits, and 366 MSA wage/employment indices ([GitHub CSV/JSON](https://github.com/levelcfo/trade-economy-index-data) | [Benchmarks](https://levelcfo.com/benchmarks/)).
 
 ### Software
 
