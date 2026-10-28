@@ -57,6 +57,7 @@ Datasets
 * [MEDevEcon](https://sites.google.com/site/medevecon/devecondata) - Data related to development economics.
 * [Monetary Economics: Data Sources](https://sites.google.com/site/davesmant/various/data-sets-sources) - Overview of macro data sources.
 * [OFFSTATS](http://www.offstats.auckland.ac.nz/) - Links to official data sources by country and subject.
+* [The Trade Economy Index](https://tradesindex.org/) - Open dataset of 9.08M US commercial buildings, $2.1T in trade establishments, and 19 skilled-trade wage, margin, and labor-hour benchmarks ([GitHub CSV/JSON](https://github.com/levelcfo/trade-economy-index-data)).
 
 Search
 
